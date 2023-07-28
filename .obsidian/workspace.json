@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "cb1de58cd97d8717",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5240bc35dcc4bee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5c69d52e44c6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Інженерія програмного забезпечення/Програмна інженерія (ПІ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c762e474dde28a89",
+    "type": "split",
+    "children": [
+      {
+        "id": "c941826e4b315dd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4665cfacf8993a11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4229450e2f9f9f05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c95b8b9c6569a466",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "581cc0a7325d42c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "55730d21d31618b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e18d5874432220e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Інженерія програмного забезпечення/Програмна інженерія (ПІ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd0f6c2a5c83e463",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Інженерія програмного забезпечення/Програмна інженерія (ПІ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7258697731af2e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b754d1a0c0dbbbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Інженерія програмного забезпечення/Програмна інженерія (ПІ).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7e5c69d52e44c6f5",
+  "lastOpenFiles": [
+    "Об'єктно-орієнтоване програмування/Клас.md",
+    "Об'єктно-орієнтоване програмування/Об'єкт.md",
+    "Алгоритми/Прості алгоритми сортування.md",
+    "Алгоритми/Поняття \"Алгоритм\", властивості.md",
+    "Алгоритми/Хеш таблиці.md",
+    "Алгоритми/Сортування  злиттям.md",
+    "Алгоритми/Швидке сортування.md",
+    "Алгоритми/Алгоритм Шелла.md",
+    "Алгоритми/Пірамідальне сортування (кучею).md",
+    "Інженерія програмного забезпечення/Програмна інженерія (ПІ).md",
+    "Об'єктно-орієнтоване програмування/Untitled.canvas",
+    "Assets",
+    "Untitled.md",
+    "Об'єктно-орієнтоване програмування",
+    "Untitled.canvas",
+    "Інженерія програмного забезпечення",
+    "Алгоритми"
+  ]
+}
